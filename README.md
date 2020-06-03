@@ -2,12 +2,8 @@
 
 https://kuni-blog.netlify.app
 
-> Gatsby
+- Gatsby
 
 - Netlify
 
--GraphQL
-
->
-
->
+- GraphQL
