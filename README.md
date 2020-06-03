@@ -1,4 +1,4 @@
-# This is My blog
+# This is My Tech Blog
 
 https://kuni-blog.netlify.app
 
