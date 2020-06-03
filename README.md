@@ -1,3 +1,9 @@
-# My gatsby blog
+# This is My blog
 
 https://kuni-blog.netlify.app
+
+>Gatsby
+>Netlify
+>GraphQL
+>
+>
