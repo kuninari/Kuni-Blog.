@@ -2,11 +2,11 @@
 
 https://kuni-blog.netlify.app
 
->Gatsby
+> Gatsby
 
->Netlify
+- Netlify
 
->GraphQL
+-GraphQL
 
 >
 
