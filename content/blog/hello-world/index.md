@@ -4,7 +4,9 @@ date: "2015-05-01T22:12:03.284Z"
 description: "初投稿"
 ---
 
-This is my first post
+初投稿です。
+
+よろしくおねがいします。
 
 <!-- [salted duck eggs](https://en.wikipedia.org/wiki/Salted_duck_egg). -->
 
